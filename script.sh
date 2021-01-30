@@ -1,5 +1,5 @@
 #!/bin/bash
-# author Pawel Kalinowski
+# author Kalina
 
 
 set -eu
